@@ -1,0 +1,12 @@
+F:\DroidCam\ComplexS\ComplexS\bin\Debug\net6.0\ComplexS.deps.json
+F:\DroidCam\ComplexS\ComplexS\bin\Debug\net6.0\ComplexS.dll
+F:\DroidCam\ComplexS\ComplexS\bin\Debug\net6.0\ComplexS.pdb
+F:\DroidCam\ComplexS\ComplexS\obj\Debug\net6.0\ComplexS.csproj.AssemblyReference.cache
+F:\DroidCam\ComplexS\ComplexS\obj\Debug\net6.0\ComplexS.GeneratedMSBuildEditorConfig.editorconfig
+F:\DroidCam\ComplexS\ComplexS\obj\Debug\net6.0\ComplexS.AssemblyInfoInputs.cache
+F:\DroidCam\ComplexS\ComplexS\obj\Debug\net6.0\ComplexS.AssemblyInfo.cs
+F:\DroidCam\ComplexS\ComplexS\obj\Debug\net6.0\ComplexS.csproj.CoreCompileInputs.cache
+F:\DroidCam\ComplexS\ComplexS\obj\Debug\net6.0\ComplexS.dll
+F:\DroidCam\ComplexS\ComplexS\obj\Debug\net6.0\refint\ComplexS.dll
+F:\DroidCam\ComplexS\ComplexS\obj\Debug\net6.0\ComplexS.pdb
+F:\DroidCam\ComplexS\ComplexS\obj\Debug\net6.0\ref\ComplexS.dll
